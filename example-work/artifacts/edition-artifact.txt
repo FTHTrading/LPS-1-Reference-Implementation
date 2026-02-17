@@ -1,0 +1,14 @@
+Edition Artifact — LPS-1 Reference Implementation
+═══════════════════════════════════════════════════
+
+This file represents a supplementary artifact (e.g., an EPUB or PDF
+rendering of the manuscript). In a production implementation, this
+would be the actual binary file.
+
+For the reference implementation, this plain-text placeholder
+demonstrates that artifacts are hashed and included in the
+artifactRoot Merkle tree.
+
+Title: The Protocol Garden
+Format: text/plain (placeholder)
+Generated: Reference Implementation

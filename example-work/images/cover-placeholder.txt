@@ -1,0 +1,13 @@
+Cover Image Placeholder — LPS-1 Reference Implementation
+═════════════════════════════════════════════════════════
+
+This file represents a cover image. In a production implementation,
+this would be a PNG, JPEG, or SVG file.
+
+For the reference implementation, this plain-text placeholder
+demonstrates that images are hashed and included in the
+imageRoot Merkle tree.
+
+Title: The Protocol Garden
+Format: text/plain (placeholder)
+Dimensions: N/A
